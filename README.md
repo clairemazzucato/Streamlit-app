@@ -15,7 +15,7 @@ This visualization app allows you to analyse your travel data: the places you ha
 
 ### Method
 For creating the app, there are 3 steps:
-1) Exporting data and 
+1) Exporting data 
 2) Cleaning & data exploitation using python on Jupyter notebooks
 3) Building the dashboard using streamlit
 
