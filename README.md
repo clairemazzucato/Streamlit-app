@@ -1,6 +1,6 @@
 # Streamlit-app
 
-Hello everyone, this repository is dedicated to sharing elements about the streamlit app 'Travel Retrospective' as part of the Data Management training at PSB. This repository includes the datasets used, the notebooks unabling you to clean your data and the code generating the app.
+Hello everyone, this repository is dedicated to sharing elements about the streamlit app 'Travel Retrospective' as part of the Data Management BI course at PSB. This repository includes the datasets used, the notebooks unabling you to clean your data and the code generating the app.
 
 ### Purpose of the app
 This visualization app allows you to analyse your travel data: the places you have been, how many pictures taken during trips & your health activity. 
